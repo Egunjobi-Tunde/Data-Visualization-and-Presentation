@@ -10,9 +10,13 @@ Knowing where your target customers are, determining which of your products cust
 
 The Analysis thoroughly provides answers to each of the objectives of this project. 
 #### The PowerPoint contains the Introduction, Purpose, Analysis, Conclusion, Recommendation, and Reference
-
-![Screenshot_20230315_101207_cn wps moffice_eng_2 (1)](https://user-images.githubusercontent.com/105982006/227765613-5e2254b5-3b40-4e9e-9383-ad23595f4300.jpg)
-
 The file .pbix has the report (Charts) and .pptx contains the presentation slides.
 
+
+
+## THE DASHBOARD
+![Screenshot_20230315_101207_cn wps moffice_eng_2 (1)](https://user-images.githubusercontent.com/105982006/227765613-5e2254b5-3b40-4e9e-9383-ad23595f4300.jpg)
+
+
+#### TABLEAU
 ![IMBD](https://user-images.githubusercontent.com/105982006/227764835-f0aa2e63-dd37-4fb6-bfcc-0589d87a7391.png)
