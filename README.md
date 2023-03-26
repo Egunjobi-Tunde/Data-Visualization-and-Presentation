@@ -3,7 +3,7 @@
 This repository contains PowerBI report and Tableau dashboard
 
 #### POWER BI
-###### Customer Sales Analysis
+##### Customer Sales Analysis
 Every business owner and company wants to improve their Sales to earn more profit. To achieve this, a thorough analysis of sales records will play a vital role in it. 
 
 Knowing where your target customers are, determining which of your products customers enjoy the most, which among the products yield high returns, and many others!
